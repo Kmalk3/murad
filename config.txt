@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= murad
+game= muradplay
+stayinchannel=true
+songinstatus=true 
+token=NTM0NzU1MTEyNjk5MTY2NzQw.Dx-NaA.8kKFFt_WrBL6Dkt7XHAiI0Si0Ls
+owner=468403068006957056
